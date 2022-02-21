@@ -4,5 +4,6 @@
 echo "welcome class 27"
 echo "let get the ball rolling"
 echo "thank you so much"
-echo " stay blessed"
-
+echo "stay blessed"
+echo "stay focus in class"
+echo "go to school to learn"
