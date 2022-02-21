@@ -1,0 +1,8 @@
+
+
+#!/bin/bash
+echo "welcome class 27"
+echo "let get the ball rolling"
+echo "thank you so much"
+echo " stay blessed"
+
